@@ -1,3 +1,4 @@
+#Allows for true private variables in Python
 import weakref
 import inspect
 
